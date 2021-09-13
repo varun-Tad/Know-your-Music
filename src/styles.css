@@ -1,0 +1,43 @@
+.App {
+  font-family: sans-serif;
+  text-align: center;
+}
+
+body {
+  background-color: #fce029;
+}
+
+#Kym {
+  color: white;
+}
+
+button {
+  background-color: white;
+  color: black;
+  padding: 0.5rem;
+  font-weight: 800;
+  margin: 0 15px;
+  border-radius: 0.5rem;
+}
+
+button:hover {
+  color: white;
+  background-color: black;
+  border: 2px solid white;
+  cursor: pointer;
+}
+
+#line {
+  border-top: 2px solid white;
+  margin-top: 20px;
+  width: 80%;
+  position: relative;
+  left: 100px;
+}
+
+ul {
+  width: 40%;
+  margin: auto;
+  margin-top: 60px;
+  list-style-type: none;
+}
